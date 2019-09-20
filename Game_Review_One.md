@@ -11,7 +11,7 @@
   I will be rating games on a 1 to 10 star scale, and I give this game a 8 star rating.
 
 ## Summary
-    This game is about a young boy named Sora who travels with Donald Duck and Goofy who travel between different worlds that 
+   This game is about a young boy named Sora who travels with Donald Duck and Goofy who travel between different worlds that 
 exist in Disney and Pixar. There are stories for each world where Sora, Donald Duck, and Goofy helps the protagonists from the 
 world their visiting against either their own antagonists or from the antagonists of Sora and company such as the heartless 
 nobodies,or other characters that have been taken over by the darkness which is primarily lead by Master Xehanort. While Sora
