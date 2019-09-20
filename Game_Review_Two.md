@@ -26,31 +26,18 @@ shows the player's helmet on the ground and cracked and implies that the future 
 The game follows classic first person shooter styles and controls with the typical weapons available and grenades although
 there are some futuristic elements to half of the weapons that are dropped by the alien enemies upon their death. The alien
 weapons can be picked up and used by the player if they find they prefer that and while they work in basically the same manner
-the aestethic is alien and there are certain advantages to a few weapons such as tracking enemy movement so even if the shooter
-has poor aim or the enemy is moving erradically the shots will follow the enemy being shot at and hits with about a 80% gurantee
-of damage being inflicted. There are other members of the Noble team that constantly fight along side the player as well as other
-nameless military soldiers that are aiding the super warriors in their missions for the greater good of humanity. The story 
-pulls in the player and makes sense even if a previous game of the halo franchise hasn't been player since Reach is a prequel to the Master Chief series of the game.
+the aestethic is alien and there are certain advantages to a few weapons such as tracking enemy movement so even if the shooter has poor aim or the enemy is moving erradically the shots will follow the enemy being shot at and hits with about a 80% gurantee of damage being inflicted. There are other members of the Noble team that constantly fight along side the player as well as other nameless military soldiers that are aiding the super warriors in their missions for the greater good of humanity. The story pulls in the player and makes sense even if a previous game of the halo franchise hasn't been player since Reach is a prequel to the Master Chief series of the game.
 
-The online aspect of this game included player versus player modes with maps tailored to this playing that were perfectly even in
-some modes or relatively balanced in the others. There was also the option of player versus environment modes where a team of up
-to four could fight against the AIs that were dropped in per round with increassed diffculty as each round is completed until
-the timer runs out or all the rounds are determined. The community and gameplay was rather friendly in my experience unlike other
-games that are filled with trolls who only seem to have fun if they ar3e ruining the experience for other plays in the lobby. 
+The online aspect of this game included player versus player modes with maps tailored to this playing that were perfectly even in some modes or relatively balanced in the others. There was also the option of player versus environment modes where a team of up to four could fight against the AIs that were dropped in per round with increassed diffculty as each round is completed until the timer runs out or all the rounds are determined. The community and gameplay was rather friendly in my experience unlike other games that are filled with trolls who only seem to have fun if they ar3e ruining the experience for other plays in the lobby. 
 
 ## Final Thoughts
 
 I really enjoyed this game overall and often will go back and play either a campaign mission or play online matches if there 
 enough people in the lobbies. I liked that there was an element of customization with the spartans since the rest of the Halo
-franchise has you play as the ultimate and well known Spartan, Master Chief. The customization made me feel as if I was Noble 6
-instead of just watching another chracter play out the actions desired it was more like I myself was the character which I 
+franchise has you play as the ultimate and well known Spartan, Master Chief. The customization made me feel as if I was Noble 6 instead of just watching another chracter play out the actions desired it was more like I myself was the character which I 
 always enjoy. The gameplay was intuitive even though I personally chose to change the layout to match the controls of Halo 3
 since so far those are the controls that have alaways worked the best for my own gameplay. I also really enjoyed the overall
-balance of the player versus player modes especially swat since all the weapons were the same for each player and the winner of
-the rounds was more based on pure skill, camping, or a slight adtvantage in spawn though I will say that for the most part the
-spawning system of Reach was mostly balanced and would alternate depending on where the enemies might be located so that you
-couldnt be spawn trapped. I greatly recommend this game to anyone who enjoys FPS even though the players on the game are lesser
-in number since the game is over 9 years old at this point.
+balance of the player versus player modes especially swat since all the weapons were the same for each player and the winner of the rounds was more based on pure skill, camping, or a slight adtvantage in spawn though I will say that for the most part the spawning system of Reach was mostly balanced and would alternate depending on where the enemies might be located so that you couldnt be spawn trapped. I greatly recommend this game to anyone who enjoys FPS even though the players on the game are lesser in number since the game is over 9 years old at this point.
 
 ## Additional Information
 
