@@ -12,7 +12,8 @@ I will be rating games on a 1 to 10 star scale, and I give this game a 7 star ra
 
 ## Summary
 
-Forza Horizon 2 
+Forza Horizon 2 is an open world racing game that is located in different parts of Europe. Primarily the racing and storyline takes place in parts of France and Italy. The campaign is a series of missions(such as races and competitions) that players can either complete themselves or with friends in a co-op mode. There is also the option of having random teammates during the missions since the game is online and open world. This newer element of open world and online is interesting to mix within a racing game is intersting and had it's own appeal.
+The graphics in this game is pretty great and there were extra attention to the details even though the areas were massive and would've taken a lot longer to create and load. There was also great detail in the customization of the cars that were available in the game. With over 200 cars to choose from the game made sure to make each car rather distinguishable from each other. Even going so far as to make the driving feel of the cars vary from sports cars to SUV's and other types of cars. 
 
 ## Final Thoughts
 
@@ -21,5 +22,4 @@ I enjoyed playing this game and thought that the steering mechanic of the game w
 ## Additional Information
 
 https://www.ign.com.articles/2014/09/25/forza-horizon-2-review%3famp=1
-
 
