@@ -8,10 +8,10 @@
 > _Answer: The rules were understandable on the basic level with the overall movement and goal of each level. However after I got level 6 I could not progress because I was unable to figure out how to build my "army" quick enough to defeat the enemy's.
 
 **Question:** During gameplay did you notice anything that shouldn't be in the game or could be removed and it wouldn't effect game play?
-> _Answer: 
+> _Answer: The game itself was pretty simple so there were no extra elements that could’ve been removed from the game. It just had the base game area and the players and enemy’s “armies” as needed per level.
 
 **Question:** Is this game balanced? If not, what is the target audience for this game based on that imbalance?
-> _Answer: 
+> _Answer: The game is balanced for the first few levels but then becomes unbalanced and adds in newer types of units to control in order to challenge the player to be more strategic in their game play as they get used to the basic controls and goals of the game.
 
 **Question:** Does the timing of this game appear to be about right for this type of game?
 > _Answer: 
