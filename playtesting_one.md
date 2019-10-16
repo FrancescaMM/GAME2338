@@ -5,7 +5,7 @@
 * [Is this a strategy game?](https://jtolmar.itch.io/gmtkj-2018)
 
 **Question:** During your playtesting where the rules of the game understandable? If not, what was not clear.
-> _Answer: The rules were understandable on the basic level with the overall movement and goal of each level. 
+> _Answer: The rules were understandable on the basic level with the overall movement and goal of each level. However after I got level 6 I could not progress because I was unable to figure out how to build my "army" quick enough to defeat the enemy's.
 
 **Question:** During gameplay did you notice anything that shouldn't be in the game or could be removed and it wouldn't effect game play?
 > _Answer: 
