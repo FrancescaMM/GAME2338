@@ -6,7 +6,7 @@
 
 
 ### Rating
-I give games a rating from 1 to 10 stars and I give this game a 9.5 star rating.
+I give games a rating from 1 to 10 stars and I give this game a 8 star rating.
 
 ## Summary
 
