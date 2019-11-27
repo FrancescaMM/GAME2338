@@ -1,9 +1,9 @@
-# Game Review for (Sea of Thieves)
+# Game Review for ()
 
-## Sea of Thieves is an action-adventure game developed by Rare and published by Microsoft Studios.
+## 
 
-### Sea of Thieves 
-Sea of Thieves, https://www.seaofthieves.com
+### 
+
 
 ### Rating
 I give games a rating from 1 to 10 stars and I give this game a 9.5 star rating.
@@ -13,12 +13,12 @@ Sea of thieves is an online shared-world multiplayer game where a player picks o
 
 One of the most exciting and irritating parts of the game are the many enemies you face while playing. Snakes on the island do spray damage if you are too close to one, sharks will attack you if you dwell in the water for too long, and skeletons will spawn and attack or chase you around the island. Compared to the other enemies these are small and easier to deal with. While sailing from island to island there are a few different megalodons that will chase your boat for a while before attacking relentlessly unless you dock at a land mass or kill the great beast. Another enemy that follows you around but will not give up pursuit if you dock up to a structure is a skeleton ship which is an AI tattered galleon with a skeleton crew that attempts to sink you. Lastly, there is the Kraken which will turn the water surrounding you for a few miles completely black and severly slow down your boat. After the Kraken has stalled out your movement it attacks you with its tentacles until you are able to kill enough of its tentacles or swim out of the black watered area.
 
-A new gamer mode that is more strictly PVP is the arena where crews of four are formed to sail galleons in order to collect the most points by the end of the game's timer which is 30 minutes. The two main ways to collect points are to read the maps that every team gets and to go dig up the treasure chests before the opposing teams and turning the chests in at one of two designated spots. The second way that people attempt to stack up points to win is to defeat enemy ships and possibly steal any loot that ship might've collected. Hitting enemy ships with cannon balls awards points which can add up quickly and killing enemy players can also award points. On top oof slowly stacking points if a ship is successful in sinking another ship then that team that sunk will lose 1,000 points from their score. While there are many different strategies for this game type the win is ultimately decided by the skill level of the players on the team and their ability to work together and communicate.
+A new gamer mode that is more strictly  is the arena where crews of four are formed to sail galleons in order to collect the most points by the end of the game's timer which is 30 minutes. The two main ways to collect points are to read the maps that every team gets and to go dig up the treasure chests before the opposing teams and turning the chests in at one of two designated spots. The second way that people attempt to stack up points to win is to defeat enemy ships and possibly steal any loot that ship might've collected. Hitting enemy ships with cannon balls awards points which can add up quickly and killing enemy players can also award points. On top oof slowly stacking points if a ship is successful in sinking another ship then that team that sunk will lose 1,000 points from their score. While there are many different strategies for this game type the win is ultimately decided by the skill level of the players on the team and their ability to work together and communicate.
 
 ## Final Thoughts
-Sea of Thieves is a fun game with lots of different activities to do in every game session. There is a decent variety to appeal to many dfferent types of gamers from the very casuals to the try hards or the free explorer to the strict mission follower. The different enemies that are found throughout the game keep it from getting too easy or stagnant as you have to constantly keep an eye out for other players, a kraken or megalodon while sailing, and even skeletons or snakes while on an island. The game also keeps up with new updates for constant fixes and new content that so far has been completely free for the players which is refreshing for a rather popular console game.
+
 
 ## Additional Information
 
-https://en.wikipedia.org/wiki/Sea_of_Thieves
+
 
